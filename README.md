@@ -53,7 +53,7 @@ To explore this repository on your local machine:
     cd Learning/
 
     # For projects
-    cd "Mini Projects"/
+    cd "Mini_Projects"/
     ```
     *Note: For specific instructions on how to compile and run the code, please refer to the README files within each sub-directory.*
 
@@ -62,6 +62,7 @@ To explore this repository on your local machine:
 ## 🤝 Let's Connect!
 
 I'm always open to connecting with other developers and learners. Feel free to reach out!
+
 [LinkedIn](https://www.linkedin.com/in/nsr2k25/) | [GitHub](https://github.com/nsr2k06/)
 
 ---
