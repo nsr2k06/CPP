@@ -75,8 +75,8 @@ To explore this repository on your local machine:
 
 I'm always open to connecting with other developers and learners. Feel free to reach out!
 
-*   **LinkedIn:** [Your LinkedIn Profile URL]
-*   **GitHub:** [Your GitHub Profile URL]
+*   **LinkedIn:** [https://www.linkedin.com/in/nsr2k25/]
+*   **GitHub:** [https://github.com/nsr2k06/]
 
 ---
 
