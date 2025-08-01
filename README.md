@@ -28,7 +28,7 @@ This is where theory meets practice! This directory holds the small, hands-on pr
 
 ➡️ **[Check out my Mini Projects](./Mini_Projects/)**
 
--
+---
 
 ## 🛠️ Tech Stack
 
