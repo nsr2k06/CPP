@@ -62,9 +62,7 @@ To explore this repository on your local machine:
 ## 🤝 Let's Connect!
 
 I'm always open to connecting with other developers and learners. Feel free to reach out!
-
-*   **LinkedIn:** [https://www.linkedin.com/in/nsr2k25/]
-*   **GitHub:** [https://github.com/nsr2k06/]
+[LinkedIn](https://www.linkedin.com/in/nsr2k25/) | [GitHub](https://github.com/nsr2k06/)
 
 ---
 
