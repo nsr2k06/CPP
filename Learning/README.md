@@ -14,17 +14,3 @@ This repository contains all the essential topics and basic code examples I lear
 9. **Array (1D & 2D)**  
 10. **Strings**  
 11. **STL (Standard Template Library)**
-
-
-## 🚀 About Me
-Hi, I’m **Nitin Singh Rajput**, a B.Tech student at IITM Janakpuri, passionate about coding and problem-solving.
-
-📌 Currently:  
-- Learning DSA using C++  
-- Solving problems on platforms like LeetCode & Codeforces  
-- Building my GitHub profile for SDE preparation
-
-This is my step toward mastering C++ and building strong DSA fundamentals.
-
----
-#cpp #cplusplus #CollegeWallah #learning #githubportfolio #DSA #cppbasics #100daysofcode
